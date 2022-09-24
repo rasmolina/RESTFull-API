@@ -12,7 +12,7 @@
 
 :triangular_ruler: IDE: [Visual Studio Code](https://code.visualstudio.com/)
 
-:calendar: Developed at 2021 second half
+:calendar: Developed at 2021 first half
 
 ## Content
 This RESTFull API was developed during the web programming I course, aiming to create a CRUD for a fictitious product store. 
